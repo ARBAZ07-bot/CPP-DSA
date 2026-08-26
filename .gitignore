@@ -1,3 +1,9 @@
+/*
+git add Lecture01
+git commit -m "Lecture01: Introduction to C++"
+git push
+*/
+
 .DS_Store
 *.out
 *.o
